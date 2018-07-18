@@ -1,0 +1,19 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -10,13 +10,13 @@
+ 	<div class="nombres" style="width: 50%; height: 300px; padding: 120px; border: solid green 3px; margin: auto; background-color: white;">
+ 
+ 
+-	<h1 style="text-align: center; margin-top: -100px;">DESARROLLADORES</h1>
++	<h1 style="text-align: center; margin-top: -100px;">DESARROLLADORES.</h1>
+ 	<BR>
+-	<h3 style="text-align: center;">RICARDO MORENO VELAZQUEZ</h3>
++	<h3 style="text-align: center;">RICARDO MORENO VELAZQUEZ.</h3>
+ 	<BR>
+-	<h3 style="text-align: center;">CESAR GUZMAN LOERA</h3>
++	<h3 style="text-align: center;">CESAR GUZMAN LOERA.</h3>
+ 	<BR>
+-	<h3 style="text-align: center ;">RAFAEL ANTONIO ROMERO MONRROY </h3>
++	<h3 style="text-align: center ;">RAFAEL ANTONIO ROMERO MONRROY. </h3>
+ 	
+ 		
+ 	</div>
